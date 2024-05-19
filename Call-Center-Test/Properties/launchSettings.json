@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Call-Center-Test": {
+      "commandName": "Project",
+      "commandLineArgs": "-f \"./test_data_onemonth.csv\""
+    }
+  }
+}
